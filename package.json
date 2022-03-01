@@ -1,0 +1,14 @@
+{
+  "name": "zadanie-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Illia Lynnyk",
+  "license": "ISC",
+  "dependencies": {
+    "sip": "^0.0.6"
+  }
+}
